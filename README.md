@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bassem Mohamed</h1>
 <h3 align="center">CyberSec Enthusiast Hardware Enthusiast | Enthusiast Python Developer Automation | Software Developer Problem Solver & Creating</h3>
 
-<p align="left"> <a href="https://twitter.com/basem2mohamed" target="blank"><img src="https://img.shields.io/twitter/follow/basem2mohamed?logo=twitter&style=for-the-badge" alt="basem2mohamed" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/basem2mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basem2mohamed" height="30" width="40" /></a>
