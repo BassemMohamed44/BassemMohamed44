@@ -1,10 +1,12 @@
 # About Me:
-FOSS | Linux Geek | CyberSec Enthusiast<br>
-Hardware Enthusiast | Enthusiast Python Developer<br>
-DesktopApps | Software Developer<br>
-Problem Solver & Creating Tools<br>
-I love phones produced by Nothing<br>
-
+My name is Basem, | 僕の名前はバセムです。<br>
+I'm 21 years old, | 21歳です。<br>
+I'm obsessed with tech, | テクノロジーに夢中です。<br>
+I love reading, | 読書が好きです。<br>
+I love phones produced by Nothing | Nothing製のスマホが大好きです。<br>
+and I'm a Marvel comic fanatic, | マーベルコミックの大ファンです。<br>
+Obsessed with Linux and programming, | Linuxとプログラミングに夢中です。<br>
+I love Japan, especially Tokyo. | 日本、特に東京が大好きです。
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/bassem.mohamed.995306) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@bassemmohamed_0) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/00xBassem) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@Basem2Mohamed) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:00xBassem@gmail.com) [![Hyperflow copr.](https://img.shields.io/badge/Hyperflow-corp?style=for-the-badge&color=4C0099&link=https%3A%2F%2Fbasira-6m0.pages.dev)](https://hyperflow-corp.pages.dev/)<br>
@@ -30,4 +32,5 @@ I love phones produced by Nothing<br>
 
 # Dev Quote
 ### Any fool can write code that a computer can understand Food programmers write code that humans can understand 
+### どんな馬鹿でもコンピュータが理解できるコードは書けるが、食品プログラマーは人間が理解できるコードを書く。
 ### اي هلفوت يقدر يكتب كود الكمبيوتر يفهمه..بس المبرمج الشاطر هو ال بيكتب كود البشر يفهموه
