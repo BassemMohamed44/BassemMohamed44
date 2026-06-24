@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Bassem  I'm a  French developer">
-</p>
-
 # About Me:
 My name is Bassem, | 僕の名前はバセムです。<br>
 I'm 21 years old, | 21歳です。<br>
