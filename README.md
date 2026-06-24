@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Bassem  I'm a  French developer">
+</p>
+
 # About Me:
-My name is Basem, | 僕の名前はバセムです。<br>
+My name is Bassem, | 僕の名前はバセムです。<br>
 I'm 21 years old, | 21歳です。<br>
 I'm obsessed with tech, | テクノロジーに夢中です。<br>
 I love reading, | 読書が好きです。<br>
