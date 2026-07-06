@@ -54,6 +54,7 @@ I love Japan, especially Tokyo. | 日本、特に東京が大好きです。
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 # Dev Quote
-### Any fool can write code that a computer can understand Food programmers write code that humans can understand 
+### Any fool can write code that a computer can understand
+Good programmers write code that humans can understand 
 ### どんな馬鹿でもコンピュータが理解できるコードは書けるが、食品プログラマーは人間が理解できるコードを書く。
 ### اي هلفوت يقدر يكتب كود الكمبيوتر يفهمه..بس المبرمج الشاطر هو ال بيكتب كود البشر يفهموه
