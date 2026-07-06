@@ -56,6 +56,5 @@ I love Japan, especially Tokyo. | 日本、特に東京が大好きです。
 # Dev Quote
 ### Any fool can write code that a computer can understand
 Good programmers write code that humans can understand 
-### どんな愚か者でも、コンピュータが理解できるコードは書ける。
-しかし、優れたプログラマーは、人間が理解できるコードを書く。
+### どんな愚か者でもコンピュータが理解できるコードは書ける。しかし、優れたプログラマーは人間が理解できるコードを書く。
 ### اي هلفوت يقدر يكتب كود الكمبيوتر يفهمه..بس المبرمج الشاطر هو ال بيكتب كود البشر يفهموه
